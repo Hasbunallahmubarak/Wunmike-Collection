@@ -371,10 +371,15 @@ textarea{
 	.side{width: 99%;}
 	#about > div{border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;}
+	.top-bar h1{font-size:20px;}
 	.top-bar span{padding: 10px;}
 	.sub{height: auto;}
+	#content{padding:30px;}
+	#main p{font-size:12px;}
+	#about p,#collect p{font-size:15px;}
 	.sub > div,#contact > div{width: 98%;height: auto;}
 	textarea{height: 200px;}
+	.footer{font-size:15px;}
 }
 @media screen and (max-width: 500px){
 	.top-bar span{width: 10%;float: left;}
