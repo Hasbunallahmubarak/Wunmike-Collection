@@ -376,7 +376,7 @@ textarea{
 	.top-bar span{padding: 10px;font-size:25px;}
 	.top-bar h1{font-size:25px;}
 	.sub{height: auto;}
-	.footer{font-size: 15px; line-height: 20px;}
+	.footer{font-size: 15px; line-height: 20px;text-align: left;}
 	.sub > div,#contact > div{width: 98%;height: auto;}
 	textarea{height: 200px;}
 }
